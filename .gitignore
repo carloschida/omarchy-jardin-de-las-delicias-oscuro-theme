@@ -1,0 +1,9 @@
+# Marcas locales de Aether y su vista previa sin ventanas (la buena es preview.png)
+.aether-managed
+preview.jpg
+light.mode
+
+# Restos de editores y del sistema
+*.swp
+*~
+.DS_Store
